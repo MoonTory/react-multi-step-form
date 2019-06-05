@@ -1,13 +1,44 @@
-# react-multi-step-form
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-> Multi-step form made with ReactJs & Hooks! 😎
+  <h3 align="center">react-multi-step-form</h3>
+
+  <p align="center">
+    Multi-step form made with ReactJs & Hooks! 😎
+    <br />
+    <a href="https://github.com/MoonTory/react-multi-step-form"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/MoonTory/react-multi-step-form">View Demo</a>
+    ·
+    <a href="https://github.com/MoonTory/react-multi-step-form/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/MoonTory/react-multi-step-form/issues">Request Feature</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Disclaimer](#disclaimer)
+- [Installing](#installing)
+- [Built With](#built-with)
+- [Versioning](#versioning)
+- [Author(s)](<#author(s)>)
+- [License](#license)
 
 ## Getting Started
 
 To get started using running this project, you should have [Nodejs](https://nodejs.org/en/) installed on your local dev machine, and also
 [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/en/).
 
-## DISCLAIMER
+### DISCLAIMER
 
 This project was made using a custom Webpack 4 configuration. Feel free to use your own, or if you are intersted you can take a look at the Webpack 4
 boilerplate [here](https://github.com/MoonTory/webpack-react-boilerplate).
